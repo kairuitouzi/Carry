@@ -1,0 +1,58 @@
+    worker_processes  1;  
+    events {  
+        worker_connections  1024;  
+    }  
+    http {  
+        upstream frontends {  
+            server 192.168.2.204:8000;
+            server 192.168.2.204:8001;
+            server 192.168.2.204:8002;
+            server 192.168.2.204:8003;
+ #fastcgi_intercept_errors on;
+        }  
+        include       mime.types;
+        default_type  application/octet-stream;
+        sendfile        on;   
+        keepalive_timeout  65;  
+        server {  
+            listen       80;  
+            server_name  localhost;
+
+            #静态文件
+            location ~ ^/(images|javascript|js|css|flash|media|static)/{
+                root C:\Users\Administrator\Desktop\djpy\Carry;
+                #过期30天，静态文件不怎么更新，过期可以设大一点，如果频繁更新，则可以设置得小一点。
+                expires 30d;
+            }
+      
+            #location ^~ /static/ {  
+            #    root C:\Users\Administrator\Desktop\djpy\Carry;  
+            #    if ($query_string) {  
+            #        expires max;  
+            #    }  
+            #}  
+            #location ^~ /media/ {  
+            #    root C:\Users\Administrator\Desktop\djpy\Carry;  
+            #    if ($query_string) {  
+            #        expires max;  
+            #    }  
+            #}  
+            location = /favicon.ico {  
+               rewrite (.*) /static/kairui.ico;  
+            }  
+            #location = /robots.txt {
+            #    rewrite (.*) /static/robots.txt;  
+            #}  
+            
+        
+            location / {  
+                proxy_pass_header Server;  
+                proxy_set_header Host $http_host;  
+                proxy_redirect off;  
+                proxy_set_header X-Real-IP $remote_addr;  
+                proxy_set_header X-Scheme $scheme;  
+                proxy_pass http://frontends;  
+            }  
+        }
+        
+    }  

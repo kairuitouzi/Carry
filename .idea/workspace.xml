@@ -1,0 +1,1615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6f7fbc3-6162-45bb-bb0b-ff47b0b46ecc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/404.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/docs/CHANGES.ru" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/blog/Descr.WD3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/featured/Descr.WD3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/flickr/Descr.WD3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/dark_square/Descr.WD3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/default/Descr.WD3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/Descr.WD3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/light_rounded/Descr.WD3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/light_square/Descr.WD3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/Descr.WD3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/r07/Descr.WD3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/EventLog.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HIDECMD.EXE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/Redis on Windows Release Notes.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/Redis on Windows.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/fonts/Roboto-Bold-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/fonts/Roboto-Light-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/fonts/Roboto-Regular-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/blog/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/featured/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/flickr/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/dark_rounded/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/preview/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/img/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/Windows Service Documentation.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/arrow_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/arrow_down_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/arrow_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/author.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/bg_control_nav.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/bg_direction_nav.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/blog/blog-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/blog/blog-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/body.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/body1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/breadcrumbs_border.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/dark_rounded/btnNext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/dark_square/btnNext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/btnNext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/light_rounded/btnNext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/light_square/btnNext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/dark_rounded/btnPrevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/dark_square/btnPrevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/btnPrevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/light_rounded/btnPrevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/light_square/btnPrevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/dark_rounded/contentPattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/contentPatternBottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/contentPatternLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/contentPatternRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/contentPatternTop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/default/default_thumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/default_thumbnail.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/down.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/img/dropdown_b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/img/dropdown_w.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/img/dropup_b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/img/dropup_w.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/dump.rdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/featured/featured-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/featured/featured-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/featured/featured-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/flickr/flickr-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/flickr/flickr-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/flickr/flickr-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/flickr/flickr-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/flickr/flickr-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/flickr/flickr-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/flickr/flickr-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/flickr/flickr-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/flickr/flickr-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/flup6-1.1.1-py3.6.egg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/footer-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/header-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/hover-magnify.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/hover-video.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itchat.pkl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kairui.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/livepreview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/load-indicator.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/dark_rounded/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/dark_square/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/default/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/light_rounded/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/logo_shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/member-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/member-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/next-horizontal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/nginx.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/parking.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/parking_shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/portfolio-detail.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/portfolio2-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/portfolio2-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/portfolio2-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/portfolio2-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/portfolio3-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/portfolio3-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/portfolio3-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/portfolio3-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/portfolio3-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/portfolio3-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/portfolio3-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/portfolio3-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prev-horizontal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/process-accept.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/process-info.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/process-stop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/process-yellow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/redis-benchmark.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/redis-benchmark.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/redis-check-aof.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/redis-check-aof.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/redis-cli.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/redis-cli.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/redis-server.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/redis-server.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/search-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/serv-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/serv-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/serv-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/serv-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/social-dribbble-32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/social-facebook-32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/social-flickr-32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/social-linkedin-32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/social-rss-32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/social-skype-32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/social-twitter-32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/social-wordpress-32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/dark_rounded/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/dark_square/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/default/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/light_rounded/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/light_square/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/default/sprite_next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/default/sprite_prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/default/sprite_x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/prettyPhoto/default/sprite_y.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/star.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/submit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/blog/thumb-blog-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/blog/thumb-blog-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/blog/thumb-blog-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/tipsy.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/img/tool_d_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/img/tool_d_push.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/img/tool_l_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/img/tool_l_push.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/top.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/train.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/train_shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/user.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/work-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/work-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/work-11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/work-12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/work-13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/work-14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/work-15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/work-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/work-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/work-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/work-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/work-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/work-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/work-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/work-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/work-thumb-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/work-thumb-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/work/work-thumb-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/preview/work_10_l.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/preview/work_11_l.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/preview/work_12_l.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/preview/work_13_l.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/preview/work_14_l.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/preview/work_15_l.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/preview/work_2_l.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/preview/work_3_l.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/preview/work_4_l.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/preview/work_5_l.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/preview/work_7_l.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/preview/work_8_l.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/preview/work_9_l.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/page/404page.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/html/50x.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/docs/CHANGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/HSD.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/jquery/LICENSE-JQUERY.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/fonts/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/docs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/docs/OpenSSL.LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/docs/PCRE.LICENCE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flup6.egg-info/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/fonts/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/contrib/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/docs/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/admin/RelatedObjectLookups.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flup6.egg-info/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/SelectBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/SelectFilter2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Carry/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/Carry/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/mysite/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/mysite/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/templatetags/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/page/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/logs/access.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/actions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/actions.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/mysite/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/r07/atimg012.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/r07/banner000.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/r07/banner004.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/bannerQuirks.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/r07/bar006.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/base/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/page/blog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/r07/bookmark012.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/page/button.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/calendar-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/cancel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/change_form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/changelists.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/collapse.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/page/column.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/page/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/r07/content005.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/r07/content005.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/r07/counter002.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/r07/counterIE67002.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/css3-mediaqueries.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/dashboard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/ddsmoothmenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/page/default.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flup6.egg-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apache/django.wsgi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/echarts.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flup6.egg-info/entry_points.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/logs/error.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/page/faqs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/conf/fastcgi_params" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/flexslider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/fonts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/base/form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/forms.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/page/fullwidth.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/contrib/geo2nginx.pl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/grayscale-image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-addlink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-alert.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-calendar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-changelink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-clock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-deletelink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-no.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-unknown-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-unknown.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-yes.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/html/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/inline-delete.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/inlines.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/inlines.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/jcarousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery-1.11.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery-1.7.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery.color.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery.flexslider-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/jquery.init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery.isotope.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery.jcarousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery.mousewheel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery.prettyPhoto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery.tipsy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/kline.assistant.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/kline.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/kline.draw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/kline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/conf/koi-utf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/contrib/unicode2nginx/koi-utf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/conf/koi-win" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/page/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log/logging.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main_manage.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main_redis.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/conf/mime.types" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/mysite/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/modernizr-1.7.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/mosaic.1.0.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/mosaic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/gis/move_vertex_off.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/gis/move_vertex_on.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/conf/nginx.conf.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/logs/nginx.pid" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/contrib/vim/ftdetect/nginx.vim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/contrib/vim/ftplugin/nginx.vim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/contrib/vim/indent/nginx.vim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/contrib/vim/syntax/nginx.vim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/popup_response.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/page/portfolio-detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/page/portfolio-sidebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/page/portfolio.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/page/portfolio2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/page/portfolio3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/page/portfolio4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/prepopulate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/prepopulate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/prepopulate_init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/prettyPhoto.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/conf/scgi_params" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/search.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/selector-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serv.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serv.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/page/services.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Carry/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/Carry/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/page/single.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/sorting-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sp_struct.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/sp_struct.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/stockData.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/stockDatas.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/stock_min.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/sub_client.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/page/testimonial.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/mysite/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/timeparse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/tipsy.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/tongji.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/tools.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/tooltag-add.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/tooltag-arrowright.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flup6.egg-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/page/typography.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/contrib/unicode2nginx/unicode-to-nginx.pl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/urlify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Carry/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/Carry/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/conf/uwsgi_params" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uwsgibuild.lastprofile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/mysite/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/websymbols/websymbols-regular-webfont.eot@" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/websymbols/websymbols-regular-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/websymbols/websymbols-regular-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/websymbols/websymbols-regular-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/websymbols/websymbols-regular-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/widgets.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/conf/win-utf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/contrib/unicode2nginx/win-utf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Carry/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/Carry/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/xregexp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/xregexp.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log/yesterday_close_price.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/zhexian.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/zhutu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/zhutu2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flup6.egg-info/zip-safe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx/docs/zlib.LICENSE" />
+    </list>
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Carry$Macd.coverage" NAME="Macd Coverage Results" MODIFIED="1512983522525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Tools/2017年12月11日" />
+    <SUITE FILE_PATH="coverage/Carry$get_min.coverage" NAME="get_min Coverage Results" MODIFIED="1513138848938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Tools/2017年12月13日" />
+    <SUITE FILE_PATH="coverage/Carry$this_get_min.coverage" NAME="this_get_min Coverage Results" MODIFIED="1513218888585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Tools/2017年12月14日" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Carry" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mysite/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.42857143" vertical-offset="600" max-vertical-offset="10320">
+              <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+              <folding>
+                <marker date="1520405710823" expanded="true" signature="3351:3375" placeholder="SELECT * FRO..STOCK_CODE..." />
+                <marker date="1520405710823" expanded="true" signature="5302:5409" placeholder="select date,..." />
+                <marker date="1520405710823" expanded="true" signature="6105:6152" placeholder="select COUNT..moment_hours..." />
+                <marker date="1520405710823" expanded="true" signature="6644:6732" placeholder="select date,..." />
+                <marker date="1520405710823" expanded="true" signature="13441:13476" placeholder="SELECT COUNT..futures_min..." />
+                <marker date="1520405710823" expanded="true" signature="13596:13691" placeholder="SELECT datet..." />
+                <marker date="1520405710823" expanded="true" signature="13790:13874" placeholder="SELECT datet..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sub_client.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysite/sub_client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.181818" vertical-offset="0" max-vertical-offset="1680">
+              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>conn</find>
+      <find>alert</find>
+      <find>series2</find>
+      <find>stack</find>
+      <find>series</find>
+      <find>.hdf5</find>
+      <find>HSD</find>
+      <find>WEIGHT</find>
+      <find>COLORS</find>
+      <find>json</find>
+      <find>round</find>
+      <find>CODE_EQUITY</find>
+      <find>_from</find>
+      <find>featured-1</find>
+      <find>featured</find>
+      <find>data_res</find>
+      <find>read_changes</find>
+      <find>sj = data[-1]</find>
+      <find>YESTERDAT_PRICE</find>
+      <find>('汇丰控股',</find>
+      <find>('汇丰控股'</find>
+      <find>arrowimages</find>
+      <find>down</find>
+      <find>down.gif</find>
+      <find>static</find>
+      <find>form</find>
+      <find>body</find>
+      <find>earn</find>
+      <find>print</find>
+      <find>except</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Index</replace>
+      <replace>start</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+    <push-targets>
+      <push-target-info repo="$PROJECT_DIR$" source="master" target-remote="origin" target-branch="master" />
+    </push-targets>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mysite/models.py" />
+        <option value="$PROJECT_DIR$/../../Tools/2017年12月11日/Macd.py" />
+        <option value="$PROJECT_DIR$/../../start_day.py" />
+        <option value="$PROJECT_DIR$/../../Tools/2017年12月13日/get_min.py" />
+        <option value="$PROJECT_DIR$/../../Tools/2017年12月13日/test1.py" />
+        <option value="$PROJECT_DIR$/../../Tools/2017年12月14日/this_get_min.py" />
+        <option value="$PROJECT_DIR$/templates/dinamic_market.html" />
+        <option value="$PROJECT_DIR$/templates/stock_min.html" />
+        <option value="$PROJECT_DIR$/templates/stockDatas.html" />
+        <option value="$PROJECT_DIR$/mysite/Myitchat.py" />
+        <option value="$PROJECT_DIR$/templates/stockData.html" />
+        <option value="$PROJECT_DIR$/../../2018-1-23/zhexiantu.html" />
+        <option value="$PROJECT_DIR$/mysite/Get_weight.py" />
+        <option value="$PROJECT_DIR$/templates/zhutu2.html" />
+        <option value="$PROJECT_DIR$/templates/clj.html" />
+        <option value="$PROJECT_DIR$/static/js/ddsmoothmenu.js" />
+        <option value="$PROJECT_DIR$/templates/base/form.html" />
+        <option value="$PROJECT_DIR$/templates/earn.html" />
+        <option value="$PROJECT_DIR$/templates/zhutu.html" />
+        <option value="$PROJECT_DIR$/templates/zhexian.html" />
+        <option value="$PROJECT_DIR$/templates/tongji.html" />
+        <option value="$PROJECT_DIR$/aaa.ini" />
+        <option value="$PROJECT_DIR$/log/logging.log" />
+        <option value="$PROJECT_DIR$/static/css/style.css" />
+        <option value="$PROJECT_DIR$/templates/kline.html" />
+        <option value="$PROJECT_DIR$/templates/base/base.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/Carry/urls.py" />
+        <option value="$PROJECT_DIR$/Carry/settings.py" />
+        <option value="$PROJECT_DIR$/templates/404.html" />
+        <option value="$PROJECT_DIR$/serv.py" />
+        <option value="$PROJECT_DIR$/static/js/kline.draw.js" />
+        <option value="$PROJECT_DIR$/mysite/sub_client.py" />
+        <option value="$PROJECT_DIR$/mysite/HSD.py" />
+        <option value="$PROJECT_DIR$/mysite/views.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="log" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="D:/ProgramFiles/nodejs/node" />
+    <property name="js-jscs-nodeInterpreter" value="D:\ProgramFiles\nodejs\node.exe" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="FullScreen" value="false" />
+    <property name="TODO_SCOPE" value="Project Files" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.a (1)">
+    <configuration default="false" name="this_get_min" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Tools/2017年12月14日" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Carry" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Tools/2017年12月14日/this_get_min.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../2018-1-22/spAPI" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Carry" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../2018-1-22/spAPI/a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Get_weight" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mysite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Carry" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mysite/Get_weight.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sub_client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mysite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Carry" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mysite/sub_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="a (1)" type="PythonConfigurationType" factoryName="Python" editBeforeRun="true" singleton="true" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mysite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Carry" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mysite/a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Carry" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Carry" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Carry" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Carry" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Carry" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Carry" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Carry" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Carry" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Carry" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Carry" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Carry" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Carry" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Django server.Carry" />
+      <item index="1" class="java.lang.String" itemvalue="Python.this_get_min" />
+      <item index="2" class="java.lang.String" itemvalue="Python.a" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Get_weight" />
+      <item index="4" class="java.lang.String" itemvalue="Python.sub_client" />
+      <item index="5" class="java.lang.String" itemvalue="Python.a (1)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.a (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.sub_client" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Get_weight" />
+        <item index="3" class="java.lang.String" itemvalue="Python.a" />
+        <item index="4" class="java.lang.String" itemvalue="Python.this_get_min" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6f7fbc3-6162-45bb-bb0b-ff47b0b46ecc" name="Default" comment="" />
+      <created>1512565529734</created>
+      <option name="number" value="Default" />
+      <updated>1512565529734</updated>
+    </task>
+    <task id="LOCAL-00001" summary="初始化项目">
+      <created>1520299831486</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1520299831486</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加一行">
+      <created>1520300327997</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1520300327997</updated>
+    </task>
+    <task id="LOCAL-00003" summary="减少一行">
+      <created>1520300574430</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1520300574430</updated>
+    </task>
+    <task id="LOCAL-00004" summary="加入gitignore">
+      <created>1520301534825</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1520301534825</updated>
+    </task>
+    <task id="LOCAL-00005" summary="增加K线图，完善了之前的一些功能">
+      <created>1520330543535</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1520330543535</updated>
+    </task>
+    <task id="LOCAL-00006" summary="增加K线图，完善了之前的一些功能">
+      <created>1520330791981</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1520330791981</updated>
+    </task>
+    <task id="LOCAL-00007" summary="交易量数据正确处理">
+      <created>1520390461939</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1520390461939</updated>
+    </task>
+    <task id="LOCAL-00008" summary="功能完善">
+      <created>1520390512941</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1520390512941</updated>
+    </task>
+    <task id="LOCAL-00009" summary="功能完善">
+      <created>1520390520670</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1520390520670</updated>
+    </task>
+    <task id="LOCAL-00010" summary="标题修改">
+      <created>1520391306944</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1520391306945</updated>
+    </task>
+    <task id="LOCAL-00011" summary="视图增改">
+      <created>1520403720357</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1520403720357</updated>
+    </task>
+    <task id="LOCAL-00012" summary="配置文件设置">
+      <created>1520405962147</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1520405962147</updated>
+    </task>
+    <task id="LOCAL-00013" summary="数据库配置修改">
+      <created>1520406008235</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1520406008235</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284055" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18287526" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16233766" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.096481875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284055" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="初始化项目" />
+    <MESSAGE value="添加一行" />
+    <MESSAGE value="减少一行" />
+    <MESSAGE value="加入gitignore" />
+    <MESSAGE value="增加K线图，完善了之前的一些功能" />
+    <MESSAGE value="交易量数据正确处理" />
+    <MESSAGE value="功能完善" />
+    <MESSAGE value="标题修改" />
+    <MESSAGE value="视图增改" />
+    <MESSAGE value="配置文件设置" />
+    <MESSAGE value="数据库配置修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="数据库配置修改" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mysite/HSD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6300" max-vertical-offset="7080">
+          <caret line="315" column="13" selection-start-line="315" selection-start-column="13" selection-end-line="315" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3020" max-vertical-offset="4340">
+          <caret line="151" column="10" selection-start-line="151" selection-start-column="10" selection-end-line="151" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Carry/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/stockData.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/stockDatas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="22" column="88" selection-start-line="22" selection-start-column="88" selection-end-line="22" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../2018-1-22/spAPI/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/stock_min.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/jquery-1.7.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/jquery.prettyPhoto.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/mosaic.1.0.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/jquery.flexslider-min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/jquery.jcarousel.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/zhutu2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="79" column="42" selection-start-line="79" selection-start-column="42" selection-end-line="79" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/tools.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/prettyPhoto.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/tipsy.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/modernizr-1.7.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/flexslider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/jcarousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/mosaic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/css3-mediaqueries.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/jquery.tipsy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/grayscale-image.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/ddsmoothmenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/zhutu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/zhexian.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/tongji.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="893">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/logging.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5820" max-vertical-offset="9640">
+          <caret line="291" column="0" selection-start-line="291" selection-start-column="0" selection-end-line="291" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/yesterday_close_price.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="1376" max-vertical-offset="16220">
+          <caret line="83" column="31" selection-start-line="83" selection-start-column="31" selection-end-line="83" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27713627" vertical-offset="3000" max-vertical-offset="4340">
+          <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="870">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42203987" vertical-offset="0" max-vertical-offset="960">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Carry/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44134727" vertical-offset="120" max-vertical-offset="2400">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21226415" vertical-offset="0" max-vertical-offset="848">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/page/404page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2606635" vertical-offset="0" max-vertical-offset="4920">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Carry/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37166086" vertical-offset="0" max-vertical-offset="861">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dj_websocket/static/js/kline.draw.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54460096" vertical-offset="176656" max-vertical-offset="187840">
+          <caret line="8856" column="77" selection-start-line="8856" selection-start-column="77" selection-end-line="8856" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/kline.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1506683" vertical-offset="9856" max-vertical-offset="11360">
+          <caret line="499" column="36" selection-start-line="499" selection-start-column="36" selection-end-line="499" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/kline.draw.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39002267" vertical-offset="28816" max-vertical-offset="188860">
+          <caret line="1458" column="38" selection-start-line="1458" selection-start-column="38" selection-end-line="1458" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/HSD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4292624" vertical-offset="2185" max-vertical-offset="7360">
+          <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1520405459689" expanded="true" signature="-1:-1" placeholder="select numbe..." />
+            <marker date="1520405459689" expanded="true" signature="-1:-1" placeholder="select F.`da..." />
+            <marker date="1520405459689" expanded="true" signature="-1:-1" placeholder="select F.`da..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="895">
+          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/conf.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="895">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/sub_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.181818" vertical-offset="0" max-vertical-offset="1680">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42857143" vertical-offset="600" max-vertical-offset="10320">
+          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+          <folding>
+            <marker date="1520405710823" expanded="true" signature="3351:3375" placeholder="SELECT * FRO..STOCK_CODE..." />
+            <marker date="1520405710823" expanded="true" signature="5302:5409" placeholder="select date,..." />
+            <marker date="1520405710823" expanded="true" signature="6105:6152" placeholder="select COUNT..moment_hours..." />
+            <marker date="1520405710823" expanded="true" signature="6644:6732" placeholder="select date,..." />
+            <marker date="1520405710823" expanded="true" signature="13441:13476" placeholder="SELECT COUNT..futures_min..." />
+            <marker date="1520405710823" expanded="true" signature="13596:13691" placeholder="SELECT datet..." />
+            <marker date="1520405710823" expanded="true" signature="13790:13874" placeholder="SELECT datet..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,88 @@
+{% extends 'base/base.html' %}
+{% block title %}统计表{% endblock %}
+{% block center_cen %}
+    <div align="center">
+    {% include 'base/form.html' %}
+        <h3>
+            {% if xz == '1' %}
+                时间分组
+            {% elif xz == '2' %}
+                ID  分组
+            {% elif xz == '3' %}
+                多空分组
+            {% elif xz == '4' %}
+                时间与ID分组
+            {% elif xz == '5' %}
+                时间与多空分组
+            {% elif xz == '6' %}
+                ID 与 空分组
+            {% elif xz == '7' %}
+                时间、ID与多空三者结合分组
+            {% elif xz == '8' %}
+                详细数据
+            {% endif %}
+        </h3>
+    {% if herys %}
+        {{ herys|safe }}</div>
+    {% elif results %}
+
+        <table border="1" class="dataframe">
+    <tr>
+      <th>开仓时间</th>
+      <th>单号</th>
+      <th>ID</th>
+      <th>平仓时间</th>
+      <th>价格</th>
+      <th>多空</th>
+        <th>赚得金额</th>
+        <th>正向跟单</th>
+        <th>反向跟单</th>
+    </tr>
+            {% for i in results %}
+    <tr>
+      <td>{{ i.0 }}</td>
+      <td>{{ i.1 }}</td>
+      <td>{{ i.2 }}</td>
+      <td>{{ i.3 }}</td>
+      <td>{{ i.4 }}</td>
+      <td>{{ i.5|yesno:"空,多,未知" }}</td>
+        <td>{{ i.6 }}</td>
+      <td>{{ i.7 }}</td>
+        <td>{{ i.8 }}</td>
+      <td>{{ i.9 }}</td>
+    </tr>
+        {% endfor %}
+        <tr><th colspan="9" style="font-size: 20px;background-color:#FFFFFF;">汇 总</th></tr>
+        <tr>
+            <th>日期</th>
+      <th>ID</th>
+        <th>赚得金额</th>
+        <th>正向跟单</th>
+        <th>反向跟单</th>
+            <th></th><th></th><th></th><th></th>
+        </tr>
+        {% for i in huizong %}
+        <tr>
+            <td>{{ i.0 }}</td>
+        <td>{{ i.1 }}</td>
+        <td>{{ i.2|floatformat:1 }}</td>
+        <td>{{ i.3 }}</td>
+        <td>{{ i.4 }}</td>
+        <td></td><td></td><td></td><td></td>
+        </tr>
+        {% endfor %}
+        </table>
+    {% else %}
+        <h3 style="color:green;">暂无数据</h3>
+    {% endif %}
+    <script type="text/javascript">
+        $('table').css({'width': '900px', 'cellpadding': 'auto', 'text-align': 'center', 'rules': 'all'});
+        $("tr:odd").css({"background-color": "#cccc33"});
+        $('tr:even').css({'background-color': '#00cc00'});
+        $('tr').css({'height': '30'});
+{#        var dates=(new Date()).pattern('yyyy-MM-dd hh:mm:ss');#}
+{#        alert(dates);#}
+{#        document.getElementById("datetimes").value=dates;#}
+
+    </script>
+{% endblock %}

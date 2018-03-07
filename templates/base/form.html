@@ -1,0 +1,10 @@
+<form action="" method="GET">
+时间：<input type="date" id="datetimes" name="datetimes" value="{{ dates }}">&nbsp;&nbsp;&nbsp;
+ ID： <select name="id">
+        {% for id in ids %}
+            {% if forloop.first %}<option value="1">全部ID</option>{% endif %}
+            <option value="{{ id }}">{{ id }}</option>
+        {% endfor %}
+    </select>&nbsp;&nbsp;
+ <input type="submit" name=""><br/><br/>
+</form>

@@ -1,0 +1,212 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>凯瑞 -- {% block title %}{% endblock %}</title>
+{% load staticfiles %}
+<link rel="icon" href="{% static 'kairui.ico' %}" type="image/x-icon"/>
+<link href="{% static 'css/style.css' %}" type="text/css" rel="stylesheet" media="screen" />
+<link href="{% static 'css/flexslider.css' %}" type="text/css" rel="stylesheet" media="screen">
+<link href="{% static 'css/jcarousel.css' %}" type="text/css" rel="stylesheet" media="screen" />
+<link rel="stylesheet" href="{% static 'css/mosaic.css' %}" type="text/css" media="screen" />
+<link href="{% static 'css/prettyPhoto.css' %}" type="text/css" rel="stylesheet" media="screen">
+<link href="{% static 'css/tipsy.css' %}" type="text/css" rel="stylesheet" media="screen">
+
+<script type="text/javascript" src="{% static 'js/jquery-1.7.1.min.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/css3-mediaqueries.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/modernizr-1.7.min.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/ddsmoothmenu.js' %}"> </script>
+<script type="text/javascript" src="{% static 'js/jquery.flexslider-min.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/jquery.jcarousel.min.js' %}"> </script>
+<script type="text/javascript" src="{% static 'js/mosaic.1.0.1.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/jquery.prettyPhoto.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/jquery.tipsy.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/grayscale-image.js' %}"></script>
+
+<!--menu-->
+<script type="text/javascript">
+ddsmoothmenu.init({
+	mainmenuid: "smoothmenu1", //menu DIV id
+	orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+	classname: 'ddsmoothmenu', //class added to menu's outer DIV
+	//customtheme: ["#1c5a80", "#18374a"],
+	contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+	})
+$(window).load(function() {
+$('a.tip').tipsy({fade: true, gravity: 's'});
+});
+</script>
+<!--BEGIN:SELECTED MENU-->
+<script type="text/javascript">
+	 // DOM ready
+	 $(function() {
+
+      // Create the dropdown base
+      $("<select />").appendTo("nav");
+
+      // Create default option "Go to..."
+      $("<option />", {
+         "selected": "selected",
+         "value"   : "",
+         "text"    : "Go to..."
+      }).appendTo("nav select");
+
+      // Populate dropdown with menu items
+      $("nav a").each(function() {
+       var el = $(this);
+       $("<option />", {
+           "value"   : el.attr("href"),
+           "text"    : el.text()
+       }).appendTo("nav select");
+      });
+
+	   // To make dropdown actually work
+      $("nav select").change(function() {
+        window.location = $(this).find("option:selected").val();
+      });
+
+	 });
+</script>
+
+<!--featured slider-->
+<script type="text/javascript">
+$(window).load(function() {
+	$('.flexslider').flexslider();
+});
+</script>
+<!--mosaic-->
+<script type="text/javascript">
+jQuery(function($){
+	$('.circle, .vid, .views').mosaic({
+		opacity		:	0.8			//Opacity for overlay (0-1)
+	});
+});
+</script>
+<!--List work-->
+<script type="text/javascript">
+function mycarousel_initCallback(carousel){
+    // Disable autoscrolling if the user clicks the prev or next button.
+    carousel.buttonNext.bind('click', function() {
+        carousel.startAuto(0);
+    });
+    carousel.buttonPrev.bind('click', function() {
+        carousel.startAuto(0);
+    });
+    // Pause autoscrolling if the user moves with the cursor over the clip.
+    carousel.clip.hover(function() {
+        carousel.stopAuto();
+    }, function() {
+        carousel.startAuto();
+    });
+};
+jQuery(document).ready(function() {
+    jQuery('#mycarousel').jcarousel({
+        auto: 4,
+        wrap: 'last',
+        initCallback: mycarousel_initCallback
+    });
+});
+</script>
+<!--Pretty Photo Animate-->
+<script type="text/javascript">
+$(window).load(function() {
+$("a[rel^='prettyPhoto']").prettyPhoto({animation_speed:'fast',slideshow:10000, hideflash: true});
+var $container = $('#works-container');
+});
+</script>
+<!--Go To Top-->
+	<script type="text/javascript">
+    $(function() {
+        $(window).scroll(function() {
+            if($(this).scrollTop() > 200) {
+                $('#top-area').fadeIn();
+            } else {
+                $('#top-area').fadeOut();
+            }
+        });
+
+        $("#totop, #gotop").click(function(){
+		$('html, body').animate({ scrollTop: 0 }, 800);
+		})
+    });
+    </script>
+{% block script %}{% endblock %}
+</head>
+<body>
+
+    {% block center %}
+        <div id="top-area">
+    	<div id="top-wrap">
+        	<ul class="social_media">
+            	<li class="first"><a href="#" class="tip" title="LinkedIn"><img src="{% static 'images/social-linkedin-32x32.png' %}" alt="LinkedIn" /></a></li>
+                <li><a href="#" class="tip" title="Dribbble"><img src="{% static 'images/social-dribbble-32x32.png' %}" alt="Dribbble" /></a></li>
+                <li><a href="#" class="tip" title="Facebook"><img src="{% static 'images/social-facebook-32x32.png' %}" alt="Facebook" /></a></li>
+                <li><a href="#" class="tip" title="Flickr"><img src="{% static 'images/social-flickr-32x32.png' %}" alt="Flickr" /></a></li>
+                <li><a href="#" class="tip" title="Twitter"><img src="{% static 'images/social-twitter-32x32.png' %}" alt="Twitter" /></a></li>
+            	<li><a href="#" class="tip" title="Wordpress"><img src="{% static 'images/social-wordpress-32x32.png' %}" alt="Wordpress" /></a></li>
+                <li><a href="#" class="tip" title="Skype"><img src="{% static 'images/social-skype-32x32.png' %}" alt="Skype" /></a></li>
+                <li><a href="#" class="tip" title="RSS"><img src="{% static 'images/social-rss-32x32.png' %}" alt="RSS" /></a></li>
+            </ul>
+    		<span id="gotop"><a href="#" title="Back to top">&dagger;</a></span>
+        </div>
+    </div>
+
+        <header>
+        <div id="header_wrap">
+            <h1 class="logo"><a href="{% url 'index' %}">Kleenex</a></h1>
+            <nav id="smoothmenu1" class="ddsmoothmenu">
+                <ul>
+                    <li><a href="{% url 'index' %}" class="current no-border-left">首页</a></li>
+                    <li><a href="{% url 'index' %}">服务支持</a>
+                    	<ul>
+                        	<li class="no-border-top"><a href="{% url 'stockDatas' %}">股票信息</a></li>
+                            <li class="no-border-top"><a href="{% url 'zhutu' %}">柱状图</a></li>
+                            <li class="no-border-top"><a href="{% url 'zhexian' %}">折线图</a></li>
+                            <li class="no-border-top"><a href="{% url 'zhexian' %}?s=1">折线图（慢而细）</a></li>
+                            <li class="no-border-top"><a href="{% url 'kline' %}">K线图</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="{% url 'index' %}">资料</a>
+                    <ul>
+                        <li class="no-border-top"><a href="{% url 'tongji' 1 %}">时间分组</a></li>
+                        <li class="no-border-top"><a href="{% url 'tongji' 2 %}">ID  分组</a></li>
+                        <li class="no-border-top"><a href="{% url 'tongji' 3 %}">多空分组</a></li>
+                        <li class="no-border-top"><a href="{% url 'tongji' 4 %}">时间与ID</a></li>
+                        <li class="no-border-top"><a href="{% url 'tongji' 5 %}">时间与空</a></li>
+                        <li class="no-border-top"><a href="{% url 'tongji' 6 %}">ID 与 空</a></li>
+                        <li class="no-border-top"><a href="{% url 'tongji' 7 %}">时间ID空</a></li>
+                        <li class="no-border-top"><a href="{% url 'tongji' 8 %}">详细数据</a></li>
+                    </ul>
+                    </li>
+                    <li><a href="{% url 'index' %}">产品介绍</a>
+                    <ul>
+                        <li class="no-border-top"><a href="{% url 'tools' %}">友情链接</a></li>
+                        <!--<li><a href="portfolio2.html">Portfolio 2 Column</a></li>-->
+
+                    </ul>
+                    </li>
+                    <li><a href="{% url 'index' %}">历史</a>
+                    	<ul>
+                        	<li class="no-border-top"><a href="">贰零一七年</a></li>
+                            <li><a href="">贰零一八年</a></li>
+
+                        </ul>
+                    </li>
+                    <li><a href="{% url 'index' %}">关于我们</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+        {% block center_cen %}{% endblock %}
+        <div style="height:100px;color: #fdfdfd;">.</div>
+    <footer style="position: fixed;bottom: -20px;">
+        <div id="copyright">
+        	<div id="copy-wrap">
+    			<p>&copy; Copyright &copy; 2018.01.01<a target="_blank" href=""></a>
+                    <a href="{% url 'index' %}" target="_blank" title="">凯瑞</a></p>
+            </div>
+    	</div>
+    </footer>
+    {% endblock %}
+</body>
+</html>
